@@ -150,6 +150,22 @@ body {
   .port-image {
     margin: 20px auto;
   }
+  .box{
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+.box .text{
+    position: absolute;
+    margin: 0 auto;      
+    text-align: center;
+    top: 70%; /* Adjust this value to move the positioned div up and down */
+    background:  #4aaaa5;
+    font-family: Arial,sans-serif;
+    color: #fff;
+    width: 100%; /* Set the width of the positioned div */
+  }
+
+
   /* END PORTFOLIO PAGE */
   
   
