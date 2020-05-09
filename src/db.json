@@ -1,5 +1,5 @@
 [
-   {
+    {
         "id": 1,
         "name": "D&D Monster Manual",
         "image": "./images/Monster.png",
@@ -11,8 +11,8 @@
         "image": "./images/placeholder.png",
         "link": "https://github.com/tboyd4/video-game-trader"
     },
-    { 
-        "id": 3, 
+    {
+        "id": 3,
         "name": "Comic Finder App",
         "image": "./images/comic.png",
         "link": "https://jborgen64.github.io/runTimeTerrors/"
@@ -25,20 +25,14 @@
     },
     {
         "id": 5,
-        "name": "Coding Quiz App",
-        "image": "./images/quiz.png",
-        "link": "https://jborgen64.github.io/jrb-coding-quiz/"
+        "name": "Planner App",
+        "image": "./images/Planner.png",
+        "link": "https://clarkdkyle.github.io/planner/"
     },
     {
         "id": 6,
-        "name": "Planner App",
-        "image": "./images/planner.png",
-        "link": "https://jborgen64.github.io/neat-calendar/"
-    },
-    {
-        "id": 7,
-        "name": "Weather App",
-        "image": "./images/weather.png",
-        "link": "https://jborgen64.github.io/Ol-Weather-Teller/"
+        "name": "Weather Dashboard",
+        "image": ""
+        "link": "https://clarkdkyle.github.io/weatherdashboard/"
     }
 ]
