@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => (
   <div className="aboutHolder">
   <div className="container jumbotron about">
-    <h1>My name is Kyle Clark and I am a Full Stack Developer.</h1>
+    <h1>Kyle Clark</h1>
     <hr className="my-4"></hr>
   </div>
   <div className="container jumbotron bioHolder">

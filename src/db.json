@@ -32,7 +32,7 @@
     {
         "id": 6,
         "name": "Weather Dashboard",
-        "image": ""
+        "image": "./images/Weather.png",
         "link": "https://clarkdkyle.github.io/weatherdashboard/"
     }
 ]
